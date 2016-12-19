@@ -5,6 +5,7 @@
 * Indigo - 14.04 Ubuntu LTS
 	* ARM
 	* x86
+	
 ### Install Instructions
 ```bash
 chmod 777 "fileName"
