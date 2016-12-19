@@ -5,11 +5,11 @@ These are Scripts for various robotics related tools used in various projects su
 
 * ROS
  * Kinetic - 16.04 Ubuntu LTS
-  * ARM
-  * x86
+   * ARM
+   * x86
  * Indigo - 14.04 Ubuntu LTS
-  * ARM
-  * x86
+   * ARM
+   * x86
 * Open CV
  * 2.4
  * 3.1
