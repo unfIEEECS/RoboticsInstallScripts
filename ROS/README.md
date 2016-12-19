@@ -1,4 +1,9 @@
-# Options
+# Install Instructions
+```bash
+chmod 777 "fileName"
+./"fileName"
+```
+### Options
 * Kinetic - 16.04 Ubuntu LTS
 	* ARM
 	* x86
@@ -6,8 +11,3 @@
 	* ARM
 	* x86
 	
-### Install Instructions
-```bash
-chmod 777 "fileName"
-./"fileName"
-```
