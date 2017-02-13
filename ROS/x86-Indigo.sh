@@ -8,9 +8,9 @@ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net --recv-key 421C365
 sudo apt-get update
 
 echo "Installing ROS"
-sudo apt-get install ros-indigo-desktop-full
-sudo apt-get install python-rosdep
-sudo apt-get install python-rosinstall
+sudo apt-get install ros-indigo-desktop-full -y
+sudo apt-get install python-rosdep -y
+sudo apt-get install python-rosinstall -y
 sudo rosdep init
 rosdep update
 
